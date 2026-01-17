@@ -46,7 +46,7 @@ width="700" height="525">
 	.card1 {
 		background-color: #bdbbfeff;
 		color: #bdbbfeff;
-		margin:0px auto;
+		margin:0px;
 		padding: 4px;
 		width: 140px;
 		height: 40px;

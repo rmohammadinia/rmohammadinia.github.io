@@ -15,7 +15,7 @@
 		margin:30px auto;
 		padding: 12px;
 		width: 500px;
-		height: 200px;
+		height: 150px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
   </style>
@@ -29,7 +29,7 @@
 	</body>
   </article>
 
-hello world
+
 
 
 

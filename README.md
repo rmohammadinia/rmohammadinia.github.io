@@ -22,9 +22,9 @@
 </head>
 <body>
 	<article class="card">
-	<h2>Rayan Mohammadinia</h2>
-	Email: @rmohammadinia@browning.edu
-		<div>	Phone Number </div>
+		<h2>Rayan Mohammadinia</h2>
+		Email: @rmohammadinia@browning.edu
+			<div>	Phone Number </div>
 	</article>
 	</html>
 

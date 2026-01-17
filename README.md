@@ -44,7 +44,7 @@ width="700" height="525">
 		font-family: Arial, sans-serif;
 	}
 	.card {
-		background-color: #ffffff;
+		background-color: #bdbbfeff;
 		color: #bdbbfeff
 		margin:0px auto;
 		padding: 10px;

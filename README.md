@@ -57,3 +57,6 @@ width="700" height="525">
 <body>
 	<article class="card">
 <h2><a href="https://drive.google.com/file/d/1QEzVqRlK5DIJJ9U-7p6GlYoC1ZEXd2A-/view">RESUME</a></h2>
+	</article>
+</body>
+</html>

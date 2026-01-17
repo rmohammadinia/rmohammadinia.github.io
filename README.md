@@ -27,7 +27,7 @@
       alt="Profile photo"
       style="float:right; width:100px; height:174.8px; margin-left:15px;"
     >
-		<h2>Rayan Mohammadinia</h2>
+		<h1>Rayan Mohammadinia</h1>
 		Email: @rmohammadinia@browning.edu
 	</article>
 </html>

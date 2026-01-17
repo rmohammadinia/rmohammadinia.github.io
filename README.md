@@ -49,7 +49,7 @@ width="700" height="525">
 		margin:0px auto;
 		padding: 10px;
 		width: 170px;
-		height: 50px;
+		height: 40px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
 	</style>

@@ -47,7 +47,7 @@ width="700" height="525">
 		background-color: #bdbbfeff;
 		color: #bdbbfeff
 		margin:0px auto;
-		padding: 5px;
+		padding: 0px;
 		width: 140px;
 		height: 40px;
 		border-radius: 4px;

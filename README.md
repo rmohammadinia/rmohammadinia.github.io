@@ -14,7 +14,7 @@
 		color: #333333
 		margin:30px auto;
 		padding: 12px;
-		width: 320px;
+		width: 500px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
   </style>
@@ -22,9 +22,10 @@
 </head>
 <body>
   <article class="card">
-    <h3>Rayan Mohammadinia</h3>
-	</body> Email: @rmohammadinia@browning.edu
+    <h2>Rayan Mohammadinia</h2>
+	<body> Email: @rmohammadinia@browning.edu
     	<div>	Phone Number
+	<body></body>
 
 
 </html>

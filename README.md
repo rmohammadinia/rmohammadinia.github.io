@@ -77,12 +77,12 @@ width="700" height="525">
 		background-color: #fff3e9ff;
 		font-family: Arial, sans-serif;
 	}
-	.card1 {
+	.card3 {
 		background-color: #ffffff;
 		color: #333333;
 		margin:10px;
 		padding: 4px;
-		width: 140px;
+		width: 250px;
 		height: 40px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
@@ -92,7 +92,7 @@ width="700" height="525">
 	</style>
 </head>
 <body>
-	<article class="card1">
+	<article class="card3">
 <h2><a href="https://rmohammadinia.github.io/contact.html">Contact Details</a></h2>
 	</article>
 </body>
@@ -106,7 +106,7 @@ width="700" height="525">
 		background-color: #fff3e9ff;
 		font-family: Arial, sans-serif;
 	}
-	.card1 {
+	.card2 {
 		background-color: #ffffff;
 		color: #333333;
 		margin:10px;
@@ -121,7 +121,7 @@ width="700" height="525">
 	</style>
 </head>
 <body>
-	<article class="card1">
+	<article class="card2">
 <h2><a href="https://rmohammadinia.github.io/projects.html">Projects</a></h2>
 	</article>
 </body>
@@ -135,12 +135,12 @@ width="700" height="525">
 		background-color: #fff3e9ff;
 		font-family: Arial, sans-serif;
 	}
-	.card1 {
+	.card4 {
 		background-color: #ffffff;
 		color: #333333;
 		margin:10px;
 		padding: 4px;
-		width: 140px;
+		width: 200px;
 		height: 40px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
@@ -150,7 +150,7 @@ width="700" height="525">
 	</style>
 </head>
 <body>
-	<article class="card1">
+	<article class="card4">
 <h2><a href="https://rmohammadinia.github.io/associations.html">Associations</a></h2>
 	</article>
 </body>

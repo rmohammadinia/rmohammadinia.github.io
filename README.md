@@ -3,26 +3,34 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Box with Text</title>
-<link rel="stylesheet" href="style.css">
-    .box {
-    width: 300px;
-    padding: 20px;
-    margin: 20px;
-    border: 2px solid black;
-    background-color: #f0f0f0;
-    border-radius: 8px;
-}
+<link rel="stylesheet" href="styles.css " type="text/css">
+<style>
+    body {
+      background-color: #fff3e9ff;
+      font-family: Arial, sans-serif;
+    }
+
+    .card {
+      background-color: #ffffff;
+      color: #333333;
+      margin: 30px auto;
+      padding: 12px;
+      width: 320px;
+      border-radius: 4px;
+      border: 0.8px solid #dddddd;
+    }
+  </style>
 
 </head>
 <body>
+  <article class="card">
+    <h3>Rayan Mohammadinia</h3>
+	</body> Email: @rmohammadinia@browning.edu
+    	<div>	Phone Number
 
-<div class="box">
-    <p>This is a box with some text inside. You can add multiple sentences or paragraphs here.</p>
-</div>
 
-</body>
 </html>
+
 
 
 

@@ -48,8 +48,8 @@ width="700" height="525">
 		color: #bdbbfeff
 		margin:0px auto;
 		padding: 10px;
-		width: 500px;
-		height: 200px;
+		width: 100px;
+		height: 50px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
 	</style>

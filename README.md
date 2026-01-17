@@ -15,8 +15,8 @@
 				color: #333333
 				margin:0px auto;
 				padding: 5px;
-				width: 500px;
-				height: 100px;
+				width: 300px;
+				height: 200px;
 				border-radius: 4px;
 				border: 0.8px solid #dddddd;
 		  </style>
@@ -43,8 +43,8 @@
 				color: #333333
 				margin:0px auto;
 				padding: 5px;
-				width: 500px;
-				height: 100px;
+				width: 300px;
+				height: 200px;
 				border-radius: 4px;
 				border: 0.8px solid #dddddd;
 		  </style>

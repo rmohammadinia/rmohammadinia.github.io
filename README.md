@@ -43,19 +43,19 @@ width="700" height="525">
 		background-color: #fff3e9ff;
 		font-family: Arial, sans-serif;
 	}
-	.card {
+	.card1 {
 		background-color: #bdbbfeff;
 		color: #bdbbfeff
 		margin:0px auto;
 		padding: 10px;
-		width: 500px;
-		height: 200px;
+		width: 140px;
+		height: 40px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
 	</style>
 </head>
 <body>
-	<article class="card">
+	<article class="card1">
 <h2><a href="https://drive.google.com/file/d/1QEzVqRlK5DIJJ9U-7p6GlYoC1ZEXd2A-/view">RESUME</a></h2>
 	</article>
 </body>

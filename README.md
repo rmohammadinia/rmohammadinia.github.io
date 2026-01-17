@@ -31,8 +31,8 @@
 
 <html>
 <img src="IMG_5858.jpg" 
-alt="Classroom created by the Hope Uplift Foundation" 
 width="700" height="525">
+<h2>Classroom created by the Hope Uplift Foundation</h2>
 </html>
 
 

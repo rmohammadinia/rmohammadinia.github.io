@@ -30,6 +30,11 @@
 	</article>
 
 <html>
+	<style>
+		h2  {
+			margin: 0px;
+			padding: 0px;
+	</style>
 <img src="IMG_5858.jpg" 
 width="700" height="525">
 <h2>Classroom created by the Hope Uplift Foundation</h2>

@@ -15,7 +15,7 @@
 		margin:0px auto;
 		padding: 0px;
 		width: 500px;
-		height: 150px;
+		height: 100px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
   </style>

@@ -13,7 +13,7 @@
 		background-color: #ffffff;
 		color: #333333
 		margin:0px auto;
-		padding: 5px;
+		padding: 10px;
 		width: 500px;
 		height: 200px;
 		border-radius: 4px;

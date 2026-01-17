@@ -97,3 +97,61 @@ width="700" height="525">
 	</article>
 </body>
 </html>
+
+<html>
+<head>
+<link rel="stylesheet" href="styles.css " type="text/css">
+<style>
+	body {
+		background-color: #fff3e9ff;
+		font-family: Arial, sans-serif;
+	}
+	.card1 {
+		background-color: #ffffff;
+		color: #333333;
+		margin:10px;
+		padding: 4px;
+		width: 140px;
+		height: 40px;
+		border-radius: 4px;
+		border: 0.8px solid #dddddd;
+	h2  {
+		margin: 0px;
+		padding: 0px;
+	</style>
+</head>
+<body>
+	<article class="card1">
+<h2><a href="https://rmohammadinia.github.io/projects.html">Projects</a></h2>
+	</article>
+</body>
+</html>
+
+<html>
+<head>
+<link rel="stylesheet" href="styles.css " type="text/css">
+<style>
+	body {
+		background-color: #fff3e9ff;
+		font-family: Arial, sans-serif;
+	}
+	.card1 {
+		background-color: #ffffff;
+		color: #333333;
+		margin:10px;
+		padding: 4px;
+		width: 140px;
+		height: 40px;
+		border-radius: 4px;
+		border: 0.8px solid #dddddd;
+	h2  {
+		margin: 0px;
+		padding: 0px;
+	</style>
+</head>
+<body>
+	<article class="card1">
+<h2><a href="https://rmohammadinia.github.io/associations.html">Associations</a></h2>
+	</article>
+</body>
+</html>

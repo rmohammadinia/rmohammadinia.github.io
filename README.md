@@ -1,6 +1,6 @@
 <a href="https://drive.google.com/file/d/1QEzVqRlK5DIJJ9U-7p6GlYoC1ZEXd2A-/view">Resume</a>
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <link rel="stylesheet" href="styles.css " type="text/css">
@@ -24,8 +24,9 @@
   <article class="card">
     <h2>Rayan Mohammadinia</h2>
 	Email: @rmohammadinia@browning.edu
-    	<div>	Phone Number
-	<body></body>
+    	<div>	Phone Number </div>
+	</body>
+  </article>
 
 
 

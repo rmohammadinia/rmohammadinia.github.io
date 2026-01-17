@@ -26,6 +26,6 @@
 		Email: @rmohammadinia@browning.edu
 			<div>	Phone Number </div>
 	</article>
-	</html>
+</html>
 
 # rmohammadinia.github.io

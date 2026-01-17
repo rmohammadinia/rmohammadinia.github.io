@@ -12,8 +12,8 @@
 	.card {
 		background-color: #ffffff;
 		color: #333333
-		margin:30px auto;
-		padding: 12px;
+		margin:0px auto;
+		padding: 0px;
 		width: 500px;
 		height: 150px;
 		border-radius: 4px;

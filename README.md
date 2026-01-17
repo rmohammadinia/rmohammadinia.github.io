@@ -9,16 +9,14 @@
       background-color: #fff3e9ff;
       font-family: Arial, sans-serif;
     }
-
-    .card {
-      background-color: #ffffff;
-      color: #333333;
-      margin: 30px auto;
-      padding: 12px;
-      width: 320px;
-      border-radius: 4px;
-      border: 0.8px solid #dddddd;
-    }
+	.card {
+		background-color: #ffffff;
+		color: #333333
+		margin:30px auto;
+		padding: 12px;
+		width: 320px;
+		border-radius: 4px;
+		border: 0.8px solid #dddddd;
   </style>
 
 </head>

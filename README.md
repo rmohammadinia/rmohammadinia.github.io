@@ -22,6 +22,11 @@
 </head>
 <body>
 	<article class="card">
+		<img
+      src="Rayan_M.jpg"
+      alt="Profile photo"
+      style="float:right; width:80px; height:140px; margin-left:15px;"
+    >
 		<h2>Rayan Mohammadinia</h2>
 		Email: @rmohammadinia@browning.edu
 			<div>	Phone Number </div>

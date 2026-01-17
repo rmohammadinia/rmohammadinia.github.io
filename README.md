@@ -14,7 +14,7 @@
 		color: #333333
 		margin:0px auto;
 		padding: 5px;
-		width: 300px;
+		width: 500px;
 		height: 200px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;

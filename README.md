@@ -23,7 +23,7 @@
 <body>
   <article class="card">
     <h2>Rayan Mohammadinia</h2>
-	<body> Email: @rmohammadinia@browning.edu
+	<div> </div>Email: @rmohammadinia@browning.edu
     	<div>	Phone Number
 	<body></body>
 

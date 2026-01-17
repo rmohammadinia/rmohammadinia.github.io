@@ -15,6 +15,7 @@
 		margin:30px auto;
 		padding: 12px;
 		width: 500px;
+		height: 150px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
   </style>
@@ -25,7 +26,6 @@
     <h2>Rayan Mohammadinia</h2>
 	Email: @rmohammadinia@browning.edu
     	<div>	Phone Number </div>
-	</body>
   </article>
 
 

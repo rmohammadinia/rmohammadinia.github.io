@@ -80,7 +80,7 @@ width="700" height="525">
 	.card3 {
 		background-color: #ffffff;
 		color: #333333;
-		margin:10px;
+		margin:0px;
 		padding: 4px;
 		width: 250px;
 		height: 40px;
@@ -109,7 +109,7 @@ width="700" height="525">
 	.card2 {
 		background-color: #ffffff;
 		color: #333333;
-		margin:10px;
+		margin:0px;
 		padding: 4px;
 		width: 140px;
 		height: 40px;
@@ -138,7 +138,7 @@ width="700" height="525">
 	.card4 {
 		background-color: #ffffff;
 		color: #333333;
-		margin:10px;
+		margin:0px;
 		padding: 4px;
 		width: 200px;
 		height: 40px;

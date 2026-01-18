@@ -51,7 +51,7 @@ width="700" height="525">
 	.card1 {
 		background-color: #bdbbfeff;
 		color: #bdbbfeff;
-		margin:0px;
+		margin: 5px;
 		padding: 4px;
 		width: 180px;
 		height: 40px;
@@ -80,7 +80,7 @@ width="700" height="525">
 	.card2 {
 		background-color: #ffffff;
 		color: #333333;
-		margin:0px;
+		margin: 5px;
 		padding: 4px;
 		width: 180px;
 		height: 40px;
@@ -109,7 +109,7 @@ width="700" height="525">
 	.card4 {
 		background-color: #ffffff;
 		color: #333333;
-		margin:0px;
+		margin: 5px;
 		padding: 4px;
 		width: 250px;
 		height: 40px;
@@ -139,7 +139,7 @@ width="700" height="525">
 	.card3 {
 		background-color: #ffffff;
 		color: #333333;
-		margin:0px;
+		margin: 5px;
 		padding: 4px;
 		width: 300px;
 		height: 40px;

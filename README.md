@@ -140,7 +140,7 @@ width="700" height="525">
 		color: #333333;
 		margin:0px;
 		padding: 4px;
-		width: 200px;
+		width: 250px;
 		height: 40px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;

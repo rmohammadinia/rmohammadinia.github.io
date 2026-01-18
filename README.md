@@ -37,8 +37,8 @@
 	</style>
 <img src="IMG_5858.jpg" 
 width="700" height="525">
-<h2>Classroom created by the Hope Uplift Foundation - <a href = "https://rmohammadinia.github.io/projects/hope_uplift_foundation_medical_internship.html"> HUF Medical Internship</h2>
-</html>
+<h2>Classroom created by the Hope Uplift Foundation - <a href = "https://rmohammadinia.github.io/projects/hope_uplift_foundation_medical_internship.html"> HUF Medical Internship
+
 
 <html>
 <head>

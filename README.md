@@ -53,7 +53,7 @@ width="700" height="525">
 		color: #bdbbfeff;
 		margin:0px;
 		padding: 4px;
-		width: 140px;
+		width: 180px;
 		height: 40px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
@@ -82,7 +82,7 @@ width="700" height="525">
 		color: #333333;
 		margin:0px;
 		padding: 4px;
-		width: 250px;
+		width: 300px;
 		height: 40px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;

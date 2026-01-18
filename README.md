@@ -77,41 +77,12 @@ width="700" height="525">
 		background-color: #fff3e9ff;
 		font-family: Arial, sans-serif;
 	}
-	.card3 {
-		background-color: #ffffff;
-		color: #333333;
-		margin:0px;
-		padding: 4px;
-		width: 300px;
-		height: 40px;
-		border-radius: 4px;
-		border: 0.8px solid #dddddd;
-	h2  {
-		margin: 0px;
-		padding: 0px;
-	</style>
-</head>
-<body>
-	<article class="card3">
-<h2><a href="https://rmohammadinia.github.io/contact.html">Contact Details</a></h2>
-	</article>
-</body>
-</html>
-
-<html>
-<head>
-<link rel="stylesheet" href="styles.css " type="text/css">
-<style>
-	body {
-		background-color: #fff3e9ff;
-		font-family: Arial, sans-serif;
-	}
 	.card2 {
 		background-color: #ffffff;
 		color: #333333;
 		margin:0px;
 		padding: 4px;
-		width: 140px;
+		width: 180px;
 		height: 40px;
 		border-radius: 4px;
 		border: 0.8px solid #dddddd;
@@ -152,6 +123,36 @@ width="700" height="525">
 <body>
 	<article class="card4">
 <h2><a href="https://rmohammadinia.github.io/associations.html">Associations</a></h2>
+	</article>
+</body>
+</html>
+
+
+<html>
+<head>
+<link rel="stylesheet" href="styles.css " type="text/css">
+<style>
+	body {
+		background-color: #fff3e9ff;
+		font-family: Arial, sans-serif;
+	}
+	.card3 {
+		background-color: #ffffff;
+		color: #333333;
+		margin:0px;
+		padding: 4px;
+		width: 300px;
+		height: 40px;
+		border-radius: 4px;
+		border: 0.8px solid #dddddd;
+	h2  {
+		margin: 0px;
+		padding: 0px;
+	</style>
+</head>
+<body>
+	<article class="card3">
+<h2><a href="https://rmohammadinia.github.io/contact.html">Contact Details</a></h2>
 	</article>
 </body>
 </html>

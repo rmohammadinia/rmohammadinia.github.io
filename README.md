@@ -45,7 +45,7 @@ width="700" height="525">
 
 <html>
 <head>
-	<!-- box with link to Resume -->
+	<!-- box with link to Resume, blue color to stand out -->
 <link rel="stylesheet" href="styles.css " type="text/css">
 <style>
 	body {

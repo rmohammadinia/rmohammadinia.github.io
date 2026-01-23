@@ -1,7 +1,8 @@
 
 <html>
 <head>
-<link rel="stylesheet" href="styles.css " type="text/css">
+<link rel="stylesheet" href="styles.css " type="text/css">		<!-- card containing name, email, photo -->
+	<!-- Style, color, font, size --> 
 <style>
 	body {
 		background-color: #fff3e9ff;
@@ -19,9 +20,10 @@
 	</style>
 </head>
 <body>
+	<!-- card of photo, name, and email  -->
 	<article class="card">
 		<img
-      src="Rayan_M.jpg"
+      src="Rayan_M.jpg" 		
       alt="Profile photo"
       style="float:right; width:100px; height:174.8px; margin-left:15px;"
     >
@@ -35,6 +37,7 @@
 			margin: 0px;
 			padding: 0px;
 	</style>
+	<!-- Photo of project, link -->
 <img src="IMG_5858.jpg" 
 width="700" height="525">
 <h2>Classroom created by the Hope Uplift Foundation - <a href = "https://rmohammadinia.github.io/projects/hope_uplift_foundation_medical_internship.html"> HUF Medical Internship
@@ -42,6 +45,7 @@ width="700" height="525">
 
 <html>
 <head>
+	<!-- box with link to Resume -->
 <link rel="stylesheet" href="styles.css " type="text/css">
 <style>
 	body {
@@ -71,6 +75,7 @@ width="700" height="525">
 
 <html>
 <head>
+	<!-- box with link to skills -->
 <link rel="stylesheet" href="styles.css " type="text/css">
 <style>
 	body {
@@ -100,6 +105,7 @@ width="700" height="525">
 
 <html>
 <head>
+	<!-- box with link to projects -->
 <link rel="stylesheet" href="styles.css " type="text/css">
 <style>
 	body {
@@ -129,6 +135,7 @@ width="700" height="525">
 
 <html>
 <head>
+	<!-- box with link to about me page -->
 <link rel="stylesheet" href="styles.css " type="text/css">
 <style>
 	body {
@@ -158,6 +165,7 @@ width="700" height="525">
 
 <html>
 <head>
+	<!-- box with link to associations page -->
 <link rel="stylesheet" href="styles.css " type="text/css">
 <style>
 	body {
@@ -188,6 +196,7 @@ width="700" height="525">
 
 <html>
 <head>
+	<!-- box with link to contact details page -->
 <link rel="stylesheet" href="styles.css " type="text/css">
 <style>
 	body {
